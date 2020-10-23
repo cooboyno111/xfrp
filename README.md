@@ -36,7 +36,7 @@ xfrp need [libevent](https://github.com/libevent/libevent) [openssl-dev](https:/
 Before compile xfrp, please install `libevent` `openssl-dev` and `json-c` in your system.
 
 ```shell
-git clone https://github.com/KunTengRom/xfrp.git
+git clone https://github.com/cooboyno111/xfrp.git
 cd xfrp
 cmake .
 make
