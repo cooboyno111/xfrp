@@ -6,7 +6,6 @@
 [![PRs Welcome][5]][6]
 [![Issue Welcome][9]][10]
 [![OpenWRT][11]][12]
-[![KunTeng][13]][14]
 
 [1]: https://img.shields.io/travis/KunTengRom/xfrp.svg?style=plastic
 [2]: https://travis-ci.org/KunTengRom/xfrp
